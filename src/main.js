@@ -4,7 +4,7 @@ import Echarts from 'echarts'
 import ElementUI from 'element-ui'
 import 'element-ui/lib/theme-chalk/index.css'
 
-Vue.prototype.$echarts = Echarts
+Vue.prototype.$echarts = Echarts;
 
 Vue.config.productionTip = false
 
